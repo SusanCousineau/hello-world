@@ -1,3 +1,3 @@
 # hello-world
 Getting Started with GitHub Tutorial
-Starting an edit on the ReadMe file only
+Starting with analyzing uBiome data from 50 participants (2017) for Slow Food Ventura County.
